@@ -1,6 +1,7 @@
 # 🛡️ SOC Detection & Incident Response Lab
 
-<img width="957" height="434" alt="image" src="https://github.com/user-attachments/assets/238827a8-e4c4-434a-9182-7506d20d9f6e" />
+<img width="948" height="438" alt="image" src="https://github.com/user-attachments/assets/33d4b0ac-84d4-4116-8405-207fb1f4ea4d" />
+
 
 
 A Python-based Security Operations Center (SOC) training project that analyzes authentication logs, detects suspicious login activity, generates security alerts, and supports incident investigation through an interactive dashboard.
