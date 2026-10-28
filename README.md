@@ -8,8 +8,6 @@ A Python-based Security Operations Center (SOC) training project that analyzes a
 
 Built as a hands-on cybersecurity portfolio project to practice security monitoring, detection engineering, log analysis, and incident response workflows.
 
-> **Disclaimer:** This is an educational lab using fictional authentication logs. It is not connected to real systems or production security infrastructure.
-
 ## Project Overview
 
 Security analysts monitor authentication logs to identify potentially suspicious activity, such as repeated failed login attempts and successful logins following multiple failures.
