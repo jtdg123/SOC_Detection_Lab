@@ -1,0 +1,3 @@
+{"timestamp": "2026-10-27T22:30:23.337653+00:00", "case_id": "CASE-001", "username": "admin", "action": "STATUS_AND_NOTES_UPDATED", "previous_status": "INVESTIGATING", "new_status": "CLOSED", "notes_changed": true}
+{"timestamp": "2026-10-27T22:40:57.664794+00:00", "case_id": "CASE-001", "username": "admin", "analyst": "Jericho", "action": "STATUS_AND_NOTES_UPDATED", "previous_status": "CLOSED", "new_status": "INVESTIGATING", "notes_changed": true}
+{"timestamp": "2026-10-28T03:37:41.496623+00:00", "case_id": "CASE-001", "username": "admin", "analyst": "SOC Analyst", "action": "STATUS_AND_NOTES_UPDATED", "previous_status": "INVESTIGATING", "new_status": "CLOSED", "notes_changed": true}

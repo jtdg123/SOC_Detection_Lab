@@ -1,0 +1,9 @@
+{"timestamp":"2026-10-27T10:00:00Z","username":"attacker_test","event_type":"login_failed","source_ip":"192.0.2.10","host":"WORKSTATION-01"}
+{"timestamp":"2026-10-27T10:01:00Z","username":"attacker_test","event_type":"login_failed","source_ip":"192.0.2.10","host":"WORKSTATION-01"}
+{"timestamp":"2026-10-27T10:02:00Z","username":"attacker_test","event_type":"login_failed","source_ip":"192.0.2.10","host":"WORKSTATION-01"}
+{"timestamp":"2026-10-27T10:02:30Z","username":"attacker_test","event_type":"login_failed","source_ip":"192.0.2.10","host":"WORKSTATION-01"}
+{"timestamp":"2026-10-27T10:05:00Z","username":"compromise_test","event_type":"login_failed","source_ip":"192.0.2.20","host":"SERVER-01"}
+{"timestamp":"2026-10-27T10:06:00Z","username":"compromise_test","event_type":"login_failed","source_ip":"192.0.2.20","host":"SERVER-01"}
+{"timestamp":"2026-10-27T10:07:00Z","username":"compromise_test","event_type":"login_failed","source_ip":"192.0.2.20","host":"SERVER-01"}
+{"timestamp":"2026-10-27T10:08:00Z","username":"compromise_test","event_type":"login_success","source_ip":"192.0.2.20","host":"SERVER-01"}
+{"timestamp":"2026-10-27T10:10:00Z","username":"normal_test","event_type":"login_success","source_ip":"192.0.2.30","host":"WORKSTATION-02"}

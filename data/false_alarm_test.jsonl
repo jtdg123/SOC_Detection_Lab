@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-27T11:00:00Z","username":"legitimate_test","event_type":"login_failed","source_ip":"192.0.2.40","host":"WORKSTATION-03"}
+{"timestamp":"2026-10-27T11:01:00Z","username":"legitimate_test","event_type":"login_failed","source_ip":"192.0.2.40","host":"WORKSTATION-03"}
+{"timestamp":"2026-10-27T11:02:00Z","username":"legitimate_test","event_type":"login_success","source_ip":"192.0.2.40","host":"WORKSTATION-03"}

@@ -1,0 +1,11 @@
+
+{"timestamp":"2026-10-27T09:00:00Z","event_type":"login_failed","username":"admin","source_ip":"192.0.2.10","host":"WORKSTATION-01"}
+{"timestamp":"2026-10-27T09:00:15Z","event_type":"login_failed","username":"admin","source_ip":"192.0.2.10","host":"WORKSTATION-01"}
+{"timestamp":"2026-10-27T09:00:30Z","event_type":"login_failed","username":"admin","source_ip":"192.0.2.10","host":"WORKSTATION-01"}
+{"timestamp":"2026-10-27T09:00:45Z","event_type":"login_failed","username":"admin","source_ip":"192.0.2.10","host":"WORKSTATION-01"}
+{"timestamp":"2026-10-27T09:01:00Z","event_type":"login_success","username":"admin","source_ip":"192.0.2.10","host":"WORKSTATION-01"}
+{"timestamp":"2026-10-27T10:15:00Z","event_type":"login_success","username":"jericho","source_ip":"192.0.2.20","host":"WORKSTATION-02"}
+{"timestamp":"2026-10-27T10:20:00Z","event_type":"login_failed","username":"alex","source_ip":"192.0.2.30","host":"WORKSTATION-02"}
+{"timestamp":"2026-10-27T10:20:10Z","event_type":"login_failed","username":"alex","source_ip":"192.0.2.30","host":"WORKSTATION-02"}
+{"timestamp":"2026-10-27T10:20:20Z","event_type":"login_failed","username":"alex","source_ip":"192.0.2.30","host":"WORKSTATION-02"}
+{"timestamp":"2026-10-27T11:30:00Z","event_type":"login_success","username":"alex","source_ip":"192.0.2.30","host":"WORKSTATION-02"}
